@@ -1,1 +1,25 @@
 /* ваше решение здесь */
+.btn {
+    font-weight: 500;
+    margin: 0;
+    color: white;
+    border-radius: 10px;
+    border: none;
+}
+
+.blue {
+    padding: 12px;
+    padding-top: 13px;
+    margin-right: 10px;
+    background-color: #778D45;
+}
+
+.yellow {
+    padding: 11px;
+    background-color: #AEC09A;
+}
+
+.btn:hover {
+    color: black;
+    cursor: pointer;
+}
