@@ -1,1 +1,8 @@
-/* ваше решение здесь */
+#login{
+    border: none;
+    background-color: rgb(118, 140, 69);
+}
+
+#registration{
+    background-color: rgb(173, 192, 155);
+}
