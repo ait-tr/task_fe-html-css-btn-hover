@@ -1,4 +1,4 @@
-#login{
+button {
     border: none;
     background-color: rgb(118, 140, 69);
     font-size:xx-large;
@@ -9,7 +9,11 @@
     margin-right: 60px;
 }
 
-#registration{
+button:hover{
+    color:black;
+}
+
+a {
     background-color: rgb(173, 192, 155);
     font-size:xx-large;
     color: aliceblue;
@@ -17,4 +21,8 @@
     border-radius: 15px;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     margin-right: 60px;
+}
+
+a:hover{
+    color:black;
 }
