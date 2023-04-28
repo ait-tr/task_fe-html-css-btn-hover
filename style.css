@@ -1,1 +1,18 @@
-/* ваше решение здесь */
+body {
+background-color: #5a5959;
+
+}
+
+#login {
+    background-color: #778D45;
+    color:rgb(233, 204, 170);
+    border: none;
+    padding: 60px;
+    font-size: 50px;
+    border-radius: 10px;
+    /* нужно ли выравнивать текст по центру, если он и так по центру? */
+    text-align: center; 
+    cursor: pointer;
+    margin: 30px 50px;
+}
+
