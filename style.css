@@ -11,14 +11,22 @@
     border: none;
 }
 
+#login:hover{
+    color: black;
+}
+
 a {
     font-family: 'Times New Roman', Times, serif;
 font-size: 30px;
+background-color: #AEC09A;
 color: white;
 border-width: 300px;
-background-color: #AEC09A;
 padding: 40px 80px;
 border-radius: 20px;
 margin: 50px;
 
+}
+
+a:hover {
+    color: black;
 }
