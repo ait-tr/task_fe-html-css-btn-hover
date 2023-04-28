@@ -1,1 +1,36 @@
-/* ваше решение здесь */
+/* Тебе пригодятся следующие цвета: #778D45 - это темно-зеленый, #AEC09A - светло-зеленый.
+
+Обрати внимание, что в index.html один элемент - это <button>, а другой - это <а>. 
+Это не является ошибкой, при помощи css мы сможем сделать, чтобы они выглядели единообразно.
+
+Убрать внешнюю границу у кнопки можно при помощи border: none; 
+Также могут быть полезны следующие свойства: 
+ font-size, font-family, border-radius, margin, color, background-color, padding */
+
+ .blue{
+    width: 100px;
+    height: 60px;
+    color: white;
+    background-color: #778D45;
+    border-radius: 8px;
+    border: none;
+    margin: -2px;
+ }
+
+ .yellow {
+    width: 100px;
+    height: 60px;
+    color: white;
+    background-color: #AEC09A;
+    border-radius: 8px;
+    padding: 21px;
+    margin-left: 50px;
+ }
+
+ .btn {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+
+ #registration:hover, #login:hover {
+    color:black;
+ }
