@@ -5,6 +5,9 @@
     border: 0px;
     border-radius: 10px;
 }
+.btn:hover{
+    color: black;
+}
 .blue{
     background-color: #778D45;
     color: white;
