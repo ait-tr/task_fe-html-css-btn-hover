@@ -1,6 +1,12 @@
 #login{
     border: none;
     background-color: rgb(118, 140, 69);
+    font-size:xx-large;
+    color: aliceblue;
+    padding: 41px 45px;
+    border-radius: 15px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-right: 60px;
 }
 
 #registration{
