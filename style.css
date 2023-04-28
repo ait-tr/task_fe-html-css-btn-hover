@@ -16,3 +16,22 @@ background-color: #5a5959;
     margin: 30px 50px;
 }
 
+#login:hover {
+    color: rgb(54, 52, 52);
+}
+
+#registration {
+    background-color: #AEC09A;
+    color:rgb(233, 204, 170);
+    border: none;
+    padding: 60px;
+    font-size: 50px;
+    border-radius: 10px;
+    cursor: pointer;
+    /* не понял, как взаимодействуют маргиналы */
+    margin: 30px 50px;
+}
+
+#registration:hover {
+    color: rgb(54, 52, 52);
+}
