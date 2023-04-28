@@ -11,4 +11,10 @@
 
 #registration{
     background-color: rgb(173, 192, 155);
+    font-size:xx-large;
+    color: aliceblue;
+    padding: 41px 45px;
+    border-radius: 15px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-right: 60px;
 }
