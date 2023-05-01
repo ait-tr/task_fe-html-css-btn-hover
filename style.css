@@ -1,15 +1,17 @@
 /* ваше решение здесь */
 button {
-    padding: 70px;
-    margin: 60px;
+    padding: 90px;
+    margin: 50px;
     border: none;
     background-color: #778D45;
-   
+    border-radius: 20px;
+
 }
+
 a {
     padding: 70px;
     margin: 60px;
     border: none;
     background-color: #AEC09A;
+    border-radius: 20px;
 }
- 
