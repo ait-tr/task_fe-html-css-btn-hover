@@ -15,9 +15,18 @@ a {
     background-color: #AEC09A;
     border-radius: 20px;
 }
+
 .btn {
     border-radius: 20px;
     font-size: 65px;
     padding: 27px;
     color: white;
+}
+
+.blue:hover {
+    cursor:move;
+}
+
+.yellow:hover {
+    color: black;
 }
