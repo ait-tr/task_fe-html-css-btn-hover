@@ -1,1 +1,28 @@
-/* ваше решение здесь */
+.button,
+.btn {
+    margin-top: 50px;
+    display: inline-block;
+    font-size: 35px;
+    font-family: Arial, sans-serif;
+    border-radius: 15px;
+    border: none;
+    cursor: pointer;
+}
+
+.button {
+    height: 130px;
+    width: 180px;
+    margin: 100px 50px 50px;
+    background-color: #778D45;
+    color: #fff;
+}
+
+.btn {
+    padding: 45px 50px;
+    background-color: #AEC09A;
+    color: #fff;
+}
+
+.btn:hover {
+    color: #000;
+}
