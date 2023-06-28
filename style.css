@@ -1,1 +1,32 @@
-/* ваше решение здесь */
+button {
+    border: none;
+    width: 120px;
+    height: 60px;
+    margin: 30px;
+    border: solid #778D45 1px;
+    background-color: #778D45; 
+    border-radius: 12px;
+    padding: 20px;
+    color: white;
+    font-size: medium;
+    
+}
+
+a
+{
+    color: white;
+    width: 500px;
+    height: 60px;
+    background-color: #AEC09A; 
+    border-radius: 12px;
+    padding: 20px;
+    margin: 5px;
+    font-size: medium;
+    font-weight: bold;
+}
+a:hover {
+    color: black;
+}
+#login:hover {
+    color: black;
+}
