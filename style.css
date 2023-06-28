@@ -23,3 +23,9 @@
     color: white; 
     font-family: Arial, Helvetica, sans-serif; 
 }
+#login:hover{
+    color: black;
+}
+#registration:hover{
+    color: black;
+}
