@@ -1,1 +1,27 @@
 /* ваше решение здесь */
+
+
+
+button {
+    margin: 50px 30px;
+    padding: 23px;
+    color: #ffffff;
+    background-color: #778D45;
+    border: none;
+    border-radius: 8px;
+    font-size: 14px;
+}
+
+a {
+    padding: 23px;
+    color: #ffffff;
+    background-color: #AEC09A;
+    border: none;
+    border-radius: 8px;
+    font-size: 14px;
+}
+
+a:hover {
+    color: #000;
+}
+
