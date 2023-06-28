@@ -1,1 +1,37 @@
 /* ваше решение здесь */
+
+.button {
+    border: none;
+    font-size: 30px;
+    font-family: sans-serif; 
+    border-radius: 10px; 
+    margin: 10px;
+    color: white;
+    padding: 30px 50px 30px 50px;
+
+}
+
+
+.btn {
+    border: none;
+    font-size: 30px;
+    font-family: sans-serif; 
+    border-radius: 10px; 
+    margin: 10px 10px 10px 40px;
+    color: white;;
+    padding: 30px 50px 30px 50px;
+
+}
+
+#registration:hover {
+    color: black;
+  }
+
+.light-green {
+    background-color: #AEC09A;
+}
+
+.green{
+background-color: #778D45;
+
+}
