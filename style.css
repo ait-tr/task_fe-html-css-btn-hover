@@ -1,1 +1,25 @@
-/* ваше решение здесь */
+#login{
+    background-color: rgb(127, 152, 84);
+    width: 110px;
+    height: 75px;
+    margin: 30px 20px;
+    padding: 10px 30px;
+    border-radius: 10px;
+    border: none;
+    align-content: 20px 20px;
+    font-size: 14pt;
+    color: white;
+
+}
+#registration{
+    background-color: rgb(164, 187, 149);
+    width: 140px;
+    height: 75px;
+    margin: 30px 20px;
+    padding: 28px 20px;
+    border-radius: 10px;
+    border: none;
+    font-size: 14pt;
+    color: white; 
+    font-family: Arial, Helvetica, sans-serif; 
+}
