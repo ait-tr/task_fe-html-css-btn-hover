@@ -1,1 +1,23 @@
-/* ваше решение здесь */
+.green {
+    background-color: #778D45;
+}
+
+.light-green {
+    background-color: #AEC09A;
+
+}
+
+.button {
+    border: none;
+    margin: 10px;
+    color: white;
+    border-radius: 5px;
+    padding: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 10px;
+}
+
+
+.light-green:hover {
+    color: black;
+}
